@@ -1,0 +1,6 @@
+{
+  "name": "Dreadnoughtus — The Giant That Fears Nothing",
+  "description": "An immersive museum-grade paleontological portfolio and interactive floodplain monograph on the Late Cretaceous titanosaur Dreadnoughtus schrani.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
